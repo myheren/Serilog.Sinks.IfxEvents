@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Serilog.Sinks.IfxEvents</id>
+    <version>1.0.0</version>
+    <title>Ifx Sink for Serilog</title>
+    <authors>lihzhan@microsoft.com</authors>
+    <owners>lihzhan@microsoft.com</owners>
+    <licenseUrl>http://docs.nuget.org/</licenseUrl>
+    <projectUrl>http://docs.nuget.org/</projectUrl>
+    <iconUrl>http://docs.nuget.org/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ifx Sink for Serilog</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Serilog</tags>
+  </metadata>
+</package>
