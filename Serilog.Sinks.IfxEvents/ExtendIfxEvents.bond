@@ -1,0 +1,18 @@
+﻿import "Ifx.bond"
+
+namespace CustomSerilogSinks
+
+struct AppLogEvent:Ifx.PartASchema
+{
+    10: optional wstring TrackId;
+    20: optional int64 MerchantId;
+	30: optional int64 ConsumerId;
+	40: optional wstring MsgType;
+	50: optional wstring MsgSource;
+    60: optional wstring MsgTarget;
+	70: optional uint32 TraceLevel;
+	80: optional wstring Message;
+	90: optional wstring MessageTemplate;
+	100: optional wstring MessageId;
+	110: optional wstring OriginalTimeFromSerilog;
+};
