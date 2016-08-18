@@ -94,7 +94,7 @@
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Serilog.Sinks.IfxEvents.1.0.0.0.nupkg" />
+    <None Include="Serilog.Sinks.IfxEvents.1.0.0.nupkg" />
     <None Include="Serilog.Sinks.IfxEvents.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
