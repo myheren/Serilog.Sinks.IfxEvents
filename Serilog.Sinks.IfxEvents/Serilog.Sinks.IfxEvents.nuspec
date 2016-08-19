@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Serilog.Sinks.IfxEvents</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>Ifx Sink for Serilog</title>
     <authors>lihzhan@microsoft.com</authors>
     <owners>lihzhan@microsoft.com</owners>
