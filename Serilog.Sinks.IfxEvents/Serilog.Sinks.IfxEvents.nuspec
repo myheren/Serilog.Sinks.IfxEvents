@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Serilog.Sinks.IfxEvents</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <title>Ifx Sink for Serilog</title>
     <authors>lihzhan@microsoft.com</authors>
     <owners>lihzhan@microsoft.com</owners>
@@ -11,7 +11,7 @@
     <iconUrl>http://docs.nuget.org/</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Ifx Sink for Serilog</description>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>modify serilog version</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>Serilog</tags>
   </metadata>
